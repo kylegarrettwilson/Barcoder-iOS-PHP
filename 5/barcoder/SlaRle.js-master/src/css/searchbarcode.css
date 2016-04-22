@@ -1,0 +1,106 @@
+body{
+    width: 100%;
+}
+
+
+
+
+h1{
+    text-align: center;
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
+form{
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 10px;
+
+}
+
+
+
+table{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+table, th, td {
+    font-size: 1.3em;
+}
+
+th{
+
+}
+
+td {
+    height: 50px;
+}
+
+
+
+
+
+
+#updatebutton{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 1.4em;
+}
+
+
+
+
+
+#imagetwo{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+#techn{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
